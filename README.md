@@ -1,5 +1,7 @@
 # Dashboard de Vendas de Assinaturas
 
+![Dashboard](dashboard.png)
+
 ## Sobre o projeto
 
 Esse projeto foi desenvolvido com o objetivo de praticar análise de dados e construção de dashboards no Excel.
